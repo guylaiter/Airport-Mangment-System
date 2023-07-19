@@ -3,7 +3,7 @@
 
 <h2>Getting Started</h2>
 <p>To get started with the project, you will need to clone the repository to your local machine:</p>
-<pre><code>git clone https://github.com/guylaiter/AirLineManagmentSystem.git</code></pre>
+<pre><code>git clone https://github.com/guylaiter/Airport-Mangment-System.git</code></pre>
 
 <h2>Prerequisites</h2>
 <p>To build and run the project, you must have a C compiler installed on your machine. The project has been tested with GCC on Linux and MinGW on Windows.</p>
